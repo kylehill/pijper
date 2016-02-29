@@ -1,0 +1,11 @@
+{
+  "name": "pijper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  	"demo": "node exec test"
+  },
+  "author": "",
+  "license": "ISC"
+}

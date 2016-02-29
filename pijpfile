@@ -1,0 +1,6 @@
+pijper.script("test")
+	.do("ls", ["a", "l"])
+	.pipe("grep", "pijp")
+
+pijper.script("other")
+	.do("something", { else: null, also: "value" })
